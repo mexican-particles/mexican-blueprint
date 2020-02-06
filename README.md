@@ -18,3 +18,10 @@ Blueprint for mexican-particles
 ## タスク
 - ?
 - ?
+
+--- 
+
+:memo:
+
+- 開発速度を重視して websocket ではなく api を叩きまくる方向でひとます考える
+  - schema は openapi json が現状ギャップなくいけそう
